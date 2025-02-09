@@ -1,7 +1,7 @@
 @extends('layouts.frontend', ['title' => 'Managing Projects, Delivering Excellence.'])
 
 @section('breadcrumb')
-@includeIf('layouts.breadcrumb'])
+@includeIf('layouts.breadcrumb')
 @endsection
 
 @section('page-content')
