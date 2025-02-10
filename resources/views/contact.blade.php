@@ -27,14 +27,14 @@
 										<h5 class="uk-h6 uk-text-uppercase uk-margin-small-bottom">Visit Us</h5>
 										<div class="uk-flex">
 											<span class="uk-label uk-label-success uk-border-pill uk-margin-small-right"><i class="fa fa-address-book"></i></span>
-											<a href="mailto:#" class="uk-text-small uk-text-primary"></a>
+											<a href="mailto:#" class="uk-text-small uk-text-primary">132A, Akin Ogunlewe Road, Off Ligali Ayorinde, VI</a>
 										</div>
 									</div>
 									<div>
 										<h5 class="uk-h6 uk-text-uppercase uk-margin-small-bottom">Call Us</h5>
 										<div class="uk-flex">
 											<span class="uk-label uk-label-success uk-border-pill uk-margin-small-right"><i class="fa fa-phone"></i></span>
-											<a href="mailto:#" class="uk-text-small uk-text-primary">0800 952 2276</a>
+											<a href="mailto:#" class="uk-text-small uk-text-primary">+2347037734639</a>
 										</div>
 									</div>
 								</div>
@@ -42,8 +42,7 @@
 						</div>
 						<div class="uk-grid uk-grid-large uk-margin-large-top" data-uk-grid="">
 							<div class="uk-width-1-2@m">
-                                <iframe class="uk-width-1-1 uk-height-large" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10600.5248164368!2d144.95966577016594!3d-37.81707816290683!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d4c2b349649%3A0xb6899234e561db11!2sEnvato!5e0!3m2!1sen!2sid!4v1645280096951!5m2!1sen!2sid">
-								</iframe>
+                                <iframe class="uk-width-1-1 uk-height-large" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.7506902479527!2d3.438543373992102!3d6.4260685935649615!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103bf517c82e5f01%3A0x59be1272a9bb019!2sAkin%20Ogunlewe%20Rd%20%26%20Ligali%20Ayorinde%20St%2C%20Victoria%20Island%2C%20Lagos%20106104%2C%20Lagos!5e0!3m2!1sen!2sng!4v1739231180110!5m2!1sen!2sng" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 							</div>
 							<div class="uk-width-1-2@m">
 								<h3>Drop Us a line</h3>
