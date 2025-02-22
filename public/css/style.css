@@ -11505,13 +11505,16 @@ iframe[data-uk-cover] {
   background-color: #95A5A6;
 }
 .in-card-10 .in-card-orange {
-  background-color: #fd6a4f;
+  background-color: #FFA500;
 }
 .in-card-10 .in-card-teal {
   background-color: #008080;
 }
 .in-card-10 .in-card-black {
   background-color: #000000;
+}
+.in-card-10 .in-card-red {
+    background-color: #eb100a;
 }
 
 .in-card-11 .uk-card-default {
@@ -24445,4 +24448,11 @@ footer .social-media-list div a:hover {
   .in-fina-21 .uk-card-default {
     margin-left: 0;
   }
+}
+
+
+.uk-custom-p {
+    color: #fff;
+    font-weight: 500;
+    /* text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4); */
 }

@@ -28,45 +28,45 @@
                         </div>
                         <div>
                             <a class="uk-link-reset" href="#">
-                                <div class="uk-card uk-card-default uk-card-body uk-border-rounded uk-light in-card-green">
+                                <div class="uk-card uk-card-default uk-card-body uk-border-rounded uk-light in-card-orange">
                                     <h6 class="uk-margin-remove uk-text-uppercase">Construction Project Management</h6>
-                                    <p class="uk-margin-small-top">From groundbreaking to ribbon-cutting, we handle all aspects of your construction project with precision.</p>
+                                    <p class="uk-margin-small-top uk-custom-p">From groundbreaking to ribbon-cutting, we handle all aspects of your construction project with precision.</p>
                                     <i class="fas fa-chevron-right uk-float-right uk-position-bottom-right"></i>
                                 </div>
                             </a>
                         </div>
                         <div>
                             <a class="uk-link-reset" href="#">
-                                <div class="uk-card uk-card-default uk-card-body uk-border-rounded uk-light in-card-blue">
+                                <div class="uk-card uk-card-default uk-card-body uk-border-rounded uk-light in-card-orange">
                                     <h6 class="uk-margin-remove uk-text-uppercase">Facility Management</h6>
-                                    <p class="uk-margin-small-top">We provide comprehensive facility management services that enhance the functionality and longevity of your properties.</p>
+                                    <p class="uk-margin-small-top uk-custom-p">We provide comprehensive facility management services that enhance the functionality and longevity of your properties.</p>
                                     <i class="fas fa-chevron-right uk-float-right uk-position-bottom-right"></i>
                                 </div>
                             </a>
                         </div>
                         <div>
                             <a class="uk-link-reset" href="#">
-                                <div class="uk-card uk-card-default uk-card-body uk-border-rounded uk-light in-card-purple">
+                                <div class="uk-card uk-card-default uk-card-body uk-border-rounded uk-light in-card-orange">
                                     <h6 class="uk-margin-remove uk-text-uppercase">Event Management</h6>
-                                    <p class="uk-margin-small-top">We handles every detail—from logistics and vendor coordination ensuring your event runs smoothly and exceeds expectations.</p>
+                                    <p class="uk-margin-small-top uk-custom-p">We handles every detail—from logistics and vendor coordination ensuring your event runs smoothly and exceeds expectations.</p>
                                     <i class="fas fa-chevron-right uk-float-right uk-position-bottom-right"></i>
                                 </div>
                             </a>
                         </div>
                         <div>
                             <a class="uk-link-reset" href="#">
-                                <div class="uk-card uk-card-default uk-card-body uk-border-rounded uk-light in-card-navy">
+                                <div class="uk-card uk-card-default uk-card-body uk-border-rounded uk-light in-card-orange">
                                     <h6 class="uk-margin-remove uk-text-uppercase">Engineering Project Management</h6>
-                                    <p class="uk-margin-small-top">Our team has extensive experience in managing engineering projects across various sectors.</p>
+                                    <p class="uk-margin-small-top uk-custom-p">Our team has extensive experience in managing engineering projects across various sectors.</p>
                                     <i class="fas fa-chevron-right uk-float-right uk-position-bottom-right"></i>
                                 </div>
                             </a>
                         </div>
                         <div>
                             <a class="uk-link-reset" href="#">
-                                <div class="uk-card uk-card-default uk-card-body uk-border-rounded uk-light in-card-grey">
+                                <div class="uk-card uk-card-default uk-card-body uk-border-rounded uk-light in-card-orange">
                                     <h6 class="uk-margin-remove uk-text-uppercase">Information Technology Management</h6>
-                                    <p class="uk-margin-small-top">Technology is an integral part of modern business, and we provide expert IT project management services.</p>
+                                    <p class="uk-margin-small-top uk-custom-p">Technology is an integral part of modern business, and we provide expert IT project management services.</p>
                                     <i class="fas fa-chevron-right uk-float-right uk-position-bottom-right"></i>
                                 </div>
                             </a>
@@ -75,7 +75,7 @@
                             <a class="uk-link-reset" href="#">
                                 <div class="uk-card uk-card-default uk-card-body uk-border-rounded uk-light in-card-orange">
                                     <h6 class="uk-margin-remove uk-text-uppercase">Property Due Diligence</h6>
-                                    <p class="uk-margin-small-top">We provide thorough due diligence services to assess the condition, legal standing, and potential of properties, helping you make informed decisions.</p>
+                                    <p class="uk-margin-small-top uk-custom-p">We provide thorough due diligence services to assess the condition, legal standing, and potential of properties, helping you make informed decisions.</p>
                                     <i class="fas fa-chevron-right uk-float-right uk-position-bottom-right"></i>
                                 </div>
                             </a>
@@ -84,16 +84,16 @@
                             <a class="uk-link-reset" href="#">
                                 <div class="uk-card uk-card-default uk-card-body uk-border-rounded uk-light in-card-orange">
                                     <h6 class="uk-margin-remove uk-text-uppercase">Project Monitoring</h6>
-                                    <p class="uk-margin-small-top">Our project monitoring services offer real-time oversight of your projects to ensure progress aligns with planned schedules and budgets.</p>
+                                    <p class="uk-margin-small-top uk-custom-p">Our project monitoring services offer real-time oversight of your projects to ensure progress aligns with planned schedules and budgets.</p>
                                     <i class="fas fa-chevron-right uk-float-right uk-position-bottom-right"></i>
                                 </div>
                             </a>
                         </div>
                         <div>
                             <a class="uk-link-reset" href="#">
-                                <div class="uk-card uk-card-default uk-card-body uk-border-rounded uk-light in-card-orange">
+                                <div class="uk-card uk-card-default uk-card-body uk-border-rounded uk-light in-card-black">
                                     <h6 class="uk-margin-remove uk-text-uppercase">Documentation Services (Survey, CofO)</h6>
-                                    <p class="uk-margin-small-top">We handle the processing of all the essential title documents including surveys and Certificates of Occupancy (CofO), ensuring that your projects meet all legal requirements and are ready for approval.</p>
+                                    <p class="uk-margin-small-top uk-custom-p">We handle the processing of all the essential title documents including surveys and Certificates of Occupancy (CofO), ensuring that your projects meet all legal requirements and are ready for approval.</p>
                                     <i class="fas fa-chevron-right uk-float-right uk-position-bottom-right"></i>
                                 </div>
                             </a>
